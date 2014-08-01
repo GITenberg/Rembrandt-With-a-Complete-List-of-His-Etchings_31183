@@ -1,0 +1,1050 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!DOCTYPE TEI.2 SYSTEM "http://www.gutenberg.org/tei/marcello/0.4/dtd/pgtei.dtd">
+
+<TEI.2 lang="en">
+<teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>Rembrandt, With a Complete List of His Etchings
+</title>
+ <author>Arthur Mayger Hind</author>
+ </titleStmt>
+ <editionStmt>
+  <edition n="1">Edition 1</edition>
+ </editionStmt>
+ <publicationStmt>
+ <publisher>Project Gutenberg</publisher>
+ <date value="2010-02-05">February 5, 2010</date>
+ <idno type="etext-no">31183</idno>
+ <availability>
+ <p>This eBook is for the use of anyone anywhere at no cost and
+ with almost no restrictions whatsoever. You may copy it, give it
+ away or re-use it under the terms of the Project Gutenberg
+ License online at www.gutenberg.org/license</p>
+ </availability>
+ </publicationStmt>
+
+ <sourceDesc>
+  <bibl>
+  <title>Rembrandt, With a Complete List of His Etchings</title>
+  <author>Arthur Mayger Hind</author>
+  <imprint>
+   <pubPlace>New York</pubPlace>
+   <publisher>Fredk. A. Stokes Company</publisher>
+   <date>1912</date>
+  </imprint>
+  </bibl>
+ </sourceDesc>
+ </fileDesc>
+
+ <encodingDesc>
+ <classDecl>
+  <taxonomy id="lc">
+  <bibl>
+   <title>Library of Congress Classification</title>
+  </bibl>
+  </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+  <language id="en"></language>
+  <language id="la"></language>
+ </langUsage>
+<textClass>
+  <classCode scheme="lc">PR</classCode>
+<keywords>
+<list>
+<item>Rembrandt Harmenszoon van Rijn, 1606-1669</item>
+</list>
+</keywords>
+</textClass>
+ 
+ </profileDesc>
+ <revisionDesc>
+ <change>
+  <date value="2010-02-05">February 5, 2010</date>
+  <respStmt>
+  <name>Martin Schub<lb /></name>
+  </respStmt>
+  <item>Project Gutenberg Edition</item>
+ </change>
+ </revisionDesc>
+</teiHeader>
+
+<pgExtensions>
+  <pgStyleSheet>
+    .boxed           { x-class: boxed }
+    .shaded          { x-class: shaded }
+    .rules           { x-class: rules; rules: all }
+    .indent          { margin-left: 2 }
+    .bold            { font-weight: bold }
+    .italic          { font-style: italic }
+
+    figure           { text-align: center; page-float: 'p' }
+    .floatleft       { float: left;  margin-right: 2em }
+    .floatright      { float: right; margin-left:  2em }
+    .w90             { }
+    .w80             { }
+    .w70             { }
+    .w60             { }
+    .w50             { }
+    .w40             { }
+    .w20             { }
+    .w05             { }
+    @media pdf {
+      .w90             { width: 90% }
+      .w80             { width: 80% }
+      .w70             { width: 70% }
+      .w60             { width: 60% }
+      .w50             { width: 50% }
+      .w40             { width: 40% }
+      .w20             { width: 20% }
+      .w05             { width: 5% }
+    }
+  </pgStyleSheet>
+</pgExtensions>
+
+<text lang="en">
+
+<front>
+
+<div>
+<divGen type="pgheader" />
+</div>
+<div>
+  <divGen type="encodingDesc" />
+</div>
+
+
+<titlePage rend="page-break-before: right">
+ <docTitle><titlePart type="main" rend="font-size: x-large">Rembrandt, With a Complete List of his Etchings</titlePart><lb /><lb/>
+</docTitle>
+
+ <byline><lb /><lb /><lb /><docAuthor>Arthur M. Hind</docAuthor><lb /><lb /><lb /><lb /></byline>
+
+<docImprint>Fredk. A. Stokes Company</docImprint><lb />
+<docDate>1912</docDate>
+</titlePage>
+
+<div rend="page-break-before: right">
+<figure url="images/tp.jpg" rend="w90">
+</figure>
+<p></p>
+</div>
+
+<div rend="page-break-before: right">
+<figure url="images/no_144.jpg" rend="w90">
+<index index="fig" />
+<head>144, II. Rembrandt and his Wife, Saskia, 1636, B. 19</head>
+<figDesc>144, II. Rembrandt and his Wife, Saskia, 1636, B. 19</figDesc>
+</figure>
+<p></p>
+</div>
+
+<div rend="page-break-before: right">
+<index index="pdf" />
+<head>Contents</head>
+<divGen type="toc" />
+</div>
+
+<div rend="page-break-before: right">
+<head>Illustrations</head>
+<divGen type="fig" />
+</div>
+
+</front>
+
+<body rend="page-break-before: right">
+
+<div rend="page-break-before: right">
+  <index index="toc" />
+  <index index="pdf" />
+<head>REMBRANDT</head>
+<pb n="5" />
+<p>
+<q rend="display">
+Rembrandt Harmensz van Ryn, son of Harmen Gerritsz van Ryn, miller (d. 1630), and Neeltge Willemsdochter (d. 1640), daughter of a baker of Zuytbroeck; born at Leyden, July 15, 1606; entered Leyden University as a student of letters, May 20, 1620, but left before the end of the year; studied painting for about three years in his native town under Jacob Isaaksz van Swanenburgh, and at the age of seventeen for about six months under Pieter Lastman in Amsterdam; settled in Leyden from 1624 until 1631, removing with his sister Lysbeth to Amsterdam in the latter half of 1631; married Saskia van Ulenburch, June 1634; from 1639 to 1658 lived in the Breestraat (in the house which is now open to the public); lost his wife in 1642; from about 1652 Hendrikje Stoffels, who had been his servant, lived with him as his wife, until her death about 1664; Rembrandt's material success as a painter was counterbalanced by his zeal for collecting works of art, and in 1656 he was forced by his creditors to declare bankrupt; an inventory of the contents of his house, made in view of the sales which took place in 1657 and 1658, is still preserved; the last part of his life was spent in a lodging on the Rozengracht, and all the money that he earned went to his creditors whom he never satisfied; he died and was buried in the Westerkerk, Amsterdam, October 4, 1669.
+</q>
+</p>
+<p>
+The formal style of art, the essence of line-engraving, reached its zenith in Albrecht D&uuml;rer.  And D&uuml;rer was so great a master that human feeling told through the medium of the severest formalism.  But it was not till a century later that human expression found its full outlet in an artist whose sympathy was at once penetrating and comprehensive, who perfected a medium capable of the most spontaneous rendering of the deepest as well as the most fleeting emotions of life.
+</p>
+<p>
+As a painter Rembrandt was chiefly devoted to portraiture, a devotion no doubt largely due to the conviction that its study gives the most immediate opportunity for depicting human character.
+<pb n="6" />
+But it must also be confessed that the overwhelmingly large proportion of portraits to other subjects in his painted work may be partly owing to the demands of clients.  That it was not entirely so is immediately evident when one considers the master's untiring industry in painting portraits of himself after his popularity had waned, and commissions nearly ceased.  Nevertheless as works for the most part uncommissioned and less lucrative than the paintings, we may take it that the etchings are a true reflection of the actual tendency of Rembrandt's genius when least affected by demands from outside.  In his etched work we find that portraits are much less numerous, and by far the largest place is given to the subjects from scripture, treated with the same reality that characterises his sketches from daily life.
+</p>
+<p>
+Rembrandt's affection for scriptural subjects is a striking fact in face of the general character of Dutch art in the seventeenth century.  The reformation in Holland seems to have helped towards the exclusion of art from the domain of religion; and the merely formal and superficial rendering of biblical stories by the classicists of the late sixteenth century may have also had much to account for the secular reaction of the succeeding period.  But Rembrandt had no need to seek new ground to escape from a formal rendering of well-known themes.  Like most masters of supreme genius, his originality consisted in the realisation of his own deepest and most personal emotion in his treatment of the old stories.  They appealed to him as the vehicle of the noblest thoughts of man in relation to himself and God, and he was practically the first artist who dared approach the Scriptures in the spirit of reality that implied a living faith rather than an official creed.
+</p>
+<p>
+It is perhaps still not superfluous to emphasise the fact that the etchings of Rembrandt (as of nearly all the painter-engravers or etchers) are original works distinct in methods and aims from the paintings or works in any other medium.  In Rembrandt's work of rather more than three hundred etchings there are scarcely half a dozen subjects that correspond with his pictures.  In general the original engraver or etcher conceives and carries out his design in specific relation to its medium; its expression in another would demand an entirely different treatment.
+</p>
+<p>
+Rembrandt worked on copper in pure etching and dry-point.  In pure etching the plate is first covered with a thin layer or ground of wax composition; the etcher draws through this ground (which offers scarcely any resistance) with an etching needle, opening up the
+<pb n="7" />
+surface of the copper where he wishes his lines to appear.  The plate is then put in a bath of acid which bites the furrows in the unprotected parts of the plate, <foreign lang="la">i.e.</foreign> wherever the needle has been drawn through the ground.  Dry-point, though generally regarded as a branch of etching, as it is so constantly used on the same plate as bitten work, is in reality more akin to line-engraving.  No acid is used, and the lines are scratched on the surface of the copper by a strong steel point.  The artist does not push this point before the hand like the graver, but uses it in the same way as a pencil.  The curl of metal thrown up at the side of the line is not scraped away as in line-engraving, where the aim is clearness of designs, but left to hold the ink, enwrapping the line, as printed from the furrows, in a rich cloudy tone.  This curl of metal, or <q>burr</q> (a term also applied to the velvety tone which it causes), is extremely delicate, and a comparatively few impressions suffice to level it with the surface of the copper, and leave the effect a mere ghost of the artist's intention.  So that rich impressions from dry-points are infinitely rarer than good ones from the pure etchings, which often yield hundreds of prints without greatly deteriorating in quality.  But the more delicate the etching and the closer the mesh of line, the sooner will deterioration of quality set in, so that a glance at the character of an etching, granting that the plate was not destroyed after a very limited issue, will almost immediately reveal one important point, <foreign lang="la">i.e.</foreign> the comparative rarity of good impressions.  It is clear and strong open line prints such as the <title>Christ at Emmaus</title> of 1654 (<ref target="no282" rend="color: blue">282</ref>) of which moderate impressions are not so valuable, for such plates were still in fair condition for printing as late as the eighteenth century.
+</p>
+<p>
+Pure etching is often combined with dry-point, the latter being used to give emphasis and strength to an etching of greater uniformity of tone.  Rembrandt did not begin to use dry-point until about 1639, <foreign lang="la">e.g.</foreign> in the <title>Death of the Virgin</title> (<ref target="no161" rend="color: blue">161</ref>), but it is not handled with any richness of effect until such works as the <title>Triumph of Mordecai</title> (<ref target="no172" rend="color: blue">172</ref>) which probably dates several years later.  A print like the <title>Three Trees</title> (<ref target="no205" rend="color: blue">205</ref>) might seem from the reproduction to have the rich tone that comes from dry-point, but in this case the dark effect is almost entirely due to a close mesh of pure etched lines.  The real quality of dry-point may be better studied in some of the lightly sketched lines in the foreground of the <title>Artist drawing from a model</title> (<ref target="no231" rend="color: blue">231</ref>), e.g. the palm branch on the right.
+</p>
+<p>
+In his early period up till about 1640, Rembrandt's etching is characterised by a clear lineal manner with little tendency to the
+<pb n="8" />
+chiaroscuro which gradually became the characteristic feature of his artistic style in etching as well as in painting.  Later he tends to a greater breadth of treatment in line, and a less imitative treatment of physical form.  At first his experiments in chiaroscuro were produced by the close mesh of etched lines, but it must be confessed that etching as such rather loses its character when the line is so entirely lost in tone.  Even the <title>Hundred Guilder Print</title> (<ref target="no236" rend="color: blue">236</ref>) holds its unrivalled place in the art of etching rather for the genius that overcame supreme difficulties than for the supreme fitness of the style in relation to the medium.  Rembrandt never showed the breadth of his sympathy and his powers of observation better than in this plate, but for grandeur of conception, concentration of material, and a vigorous handling more in keeping with the scale of his subject, he attained a nobler&mdash;I think his noblest&mdash;creation in the <title>Three Crosses</title> (<ref target="no270" rend="color: blue">270</ref>).  The changes introduced in this plate in a later state are remarkable, and show how completely the etcher can transform his subject.  Here the changes are astonishingly drastic, and may have been intended to direct us to an entirely different moment in the drama of the Crucifixion.  In other examples, such as the <title>Christ presented to the People</title>  (<ref target="no271" rend="color: blue">271</ref>) and the <title>Landscape with trees, farm-buildings, and a tower</title> (<ref target="no244" rend="color: blue">244</ref>), one sees how Rembrandt was constantly striving in the progress of his states towards greater concentration of idea, effecting it in the former by the removal of an entire group of figures, in the latter by the lopping of a cupola on the church tower.  Except for an occasional plate like the <title>Clement de Jonghe</title> (<ref target="no251" rend="color: blue">251</ref>) with its open line after the manner of Van Dyck, Rembrandt kept to the method of close painter-like shading throughout the latter part of his life, but in his subject prints he almost entirely discarded this method of chiaroscuro for a more luminous and mysterious shadow effected by the surface tinting of a more broadly etched plate. The various states of the <title>Entombment</title> (<ref target="no281" rend="color: blue">281</ref>), first with the line quite open, then with some added shading partially aided by a surface tint, exemplify the manner of his progress. In this wonderful plate, and nearly all the subjects of his later period, Rembrandt had attained a dignity of composition which we find in few painters outside Venice.  In spite of his thoroughly Dutch temperament, Rembrandt had learnt much from the Italians, and in nothing more than in space composition.  A very large proportion of his early etchings are studies of seperate figures.  Only by this constant study of pieces of life was perfected the power by which his greater conceptions were realised with such unity of effect.
+</p>
+<pb n="9" />
+<p>
+Rembrandt took longer than many a weaker artist to reach his maturity, not that his progress was slower, but the maturity much higher, and even his old age seemed like youth in its perennial receptivity and power of vigorous growth.  A well-known connoisseur of the time, Constantin Huygens, writing in 1631, was more impressed by Lievens's brilliant flights of invention than by Rembrandt's vivid power of expressing character and emotion.  But while the former and so many of his contemporaries were content with their own facility and the convention they had reached, Rembrandt never remitted the ardour of the great quest which was the very blood of his life.  Constantly breaking new paths, and losing at each new turn his earlier patrons, who failed to follow the progress of his genius, he died in comparative neglect, only to be rediscovered by the moderns as one who still belongs to the most living style of art.
+</p>
+<p>
+A few etchers of the last two or three generations have taken a step further or aside in this or that direction, more particularly in the art of landscape, but even Whistler, at once the supreme virtuoso and the greatest individuality of nineteenth-century etching, falls far short of Rembrandt in the one thing which makes or mars genius of the highest order, <foreign lang="la">i.e.</foreign> depth of humanity, without surpassing him in the technical mastery of expressive line.  Rembrandt remains for us the greatest etcher who has ever lived, as well as one of the noblest exponents in art of the deepest and most generous emotions of life.
+</p>
+</div>
+
+<pb n="10" />
+<div rend="page-break-before: right">
+  <index index="toc" />
+  <index index="pdf" />
+<head>BOOKS OF REFERENCE</head>
+<div>
+<head type="sub">CATALOGUES</head>
+<list>
+<item>Gersaint, E. F. Paris 1751</item>
+<item>Yver, P. Amsterdam 1756 (supplement to Gersaint)</item>
+<item>Bartsch, Adam. Vienna 1797</item>
+<item>Claussin, J. J. de. Paris 1824 (supplement 1828)</item>
+<item>Wilson, T. London 1836</item>
+<item>Blanc, C. Paris 1859-61 (1873, and with a complete series of reproductions, 1880)</item>
+<item>Middleton-Wake, C. H. London 1878</item>
+<item>Dutuit, E. Paris 1881-4 (with a complete series of reproductions in heliogravure); Manuel de l'Amateur V (1882), and VI (1885).</item>
+<item>Rovinski, D. St. Petersburg 1890 (with atlas of reproductions covering all the etchings in practically every state)</item>
+<item>Rovinski, D. Les &Eacute;l&egrave;ves de Rembrandt. St. Petersburg 1894</item>
+<item>Seidlitz, W. von. Leipzig 1895</item>
+<item>Dodgson, C. In Hamerton. the Etchings of Rembrandt, London 1904</item>
+<item>Singer, H. W. Stuttgart 1906 (and 1910)</item>
+<item>Hind, A. M. London 1912</item>
+</list>
+</div>
+
+<div>
+<head type="sub">GENERAL</head>
+<p>
+Also including the most important works on Rembrandt's paintings
+and drawings
+</p>
+<list>
+<item>Vosmaer, C. Rembrandt, sa vie et ses &oelig;uvres. The Hague 1868 (and 1877)</item>
+<item>Haden, (Sir) F. Seymour. The Etched Work of Rembrandt. London 1879</item>
+<item>Michel, E. Rembrandt, sa vie, son &oelig;uvre, et son temps. Paris 1893</item>
+<item>Hamerton, P. G. The Etchings of Rembrandt. London 1894 (and 1904, with catalogue by C. Dodgson)</item>
+<item>Bode, W., and Groot, C. H. de. The Complete Work of Rembrandt (reproduced in photogravure). 8 vols. Paris 1897&mdash;1906</item>
+<item>Groot, C. H. de. Die Urkunden &uuml;ber Rembrandt (1575-1721). The Hague 1906. (English version in vol. 8 of Bode)</item>
+<item>Groot, C. H. de. Die Handzeichnungen Rembrandts. Versuch eines beschreibenden und kritischen Katalogs. Haarlem 1906</item>
+<item>Hamann, R. Rembrandt's Radierungen. Berlin 1906</item>
+<item>Holmes, C. J. The Development of Rembrandt as an Etcher. <title>Burlington Magazine</title> IX (1906), 87, 245, 313, 383</item>
+<item>Holmes, C. J.  Notes on the Art of Rembrandt. London 1911</item>
+<item>Brown, C. Baldwin. London 1907</item>
+<item>Six, J. Gersaint's l&yuml;st van Rembrandts Prenten. <title>Oud-Holland</title> XXVII (1909), 65</item>
+</list>
+</div>
+</div>
+
+
+<pb n="11" />
+<div rend="page-break-before: right">
+  <index index="toc" />
+  <index index="pdf" />
+<head>A CHRONOLOGICAL LIST OF REMBRANDT'S ETCHINGS</head>
+<p>
+Arranged according to the author's complete catalogue in <title>Rembrandt's Etchings, an Essay and a Catalogue</title> (Methuen, 1912), which follows the chronological arrangement of the collection in the British Museum.  Numbers that are obelised (&dagger;) are plates of doubtful authenticity; starred numbers (*) refer to plates not represented in the British Museum.  Conjectural dates are cited within brackets.  Except for Nos. 144 (frontispiece), 139 and 164 (on same plate as No. 40), and 196 (on same plate as No. 175), the etchings reproduced (entirely from the British Museum collection) are given in the order of this catalogue, so that plate numbers have been dispensed with.  The Roman numerals following the catalogue numbers in the underlines to the plates refer to the states of the etchings as described in the complete catalogue.  B. = Bartsch.
+</p>
+<list>
+<item>1. Rembrandt's Mother: Head Bust, three-quarters r. 1628. B. 354.</item>
+<item>2. Rembrandt's Mother: Head only, full face. 1628. B. 352</item>
+<item>2.* Rembrandt with a Broad Nose. (1628) B. 4</item>
+<item>3. Rembrandt Bareheaded, with High Curly Hair: Head and Bust. (1628.) B. 27</item>
+<item>4. Rembrandt Bareheaded: A Large Plate Roughly Etched: Head and Bust. 1629. B. 338</item>
+<item>4.* Aged Man of Letters. (1629.) B. 149</item>
+<item>5. Peter and John at the Gate of the Temple: Roughly Etched. (1629-30.) B. 95</item>
+<item>6. The Small Lion Hunt (with one Lion). (1629-30.) B. 116</item>
+<item>7. Beggar Man and Beggar Woman Conversing. 1630. B. 164</item>
+<item>8. Beggar Seated Warming his Hands at a Chafing Dish. (1630.) B. 173</item>
+<item>9. Beggar Leaning on a Stick, facing l. (1630.) B. 163</item>
+<item>10. Beggar in a Long Cloak, Sitting in an Arm-chair. (1630.) B. 160</item>
+<item>11. Beggar Seated on a Bank. 1630. B. 174</item>
+<item>12. Beggar with a Wooden Leg. (1630.) B. 179</item>
+<item>13. Beggar Man and Beggar Woman Behind a Bank. (1630) B. 165</item>
+<item>14. Man in a Cloak and Fur Cap Leaning against a Bank. (1630.) B. 151</item>
+<item>15. Beggar in a High Cap, Standing and Leaning on a Stick. (1630.) B. 162</item>
+<item>16. Ragged Peasant with his Hands Behind Him, Holding a Stick. (1630.) B. 172</item>
+<item>17. The Flight into Egypt: A Sketch. (1630.) B. 54</item>
+<item>18. The Presentation in the Temple (with the Angel): small plate. 1630. B. 51</item>
+<item>19. The Circumcision: small plate. (1630.) B. 48</item>
+<item>20. Christ Disputing with the Doctors: small plate. 1630. B. 66</item>
+<item>21. Bust of a Man (Rembrandt's Father?) in full face, wearing a Close Cap. 1630. B. 304</item>
+<item>22. Bust of a Man (Rembrandt's Father?) wearing a High Cap, three-quarters r. 1630. B. 321</item>
+<pb n="12" />
+<item>23. Bald-headed Man (Rembrandt's Father?) in Profile r; head only; bust added afterwards. 1630. B. 292</item>
+<item>24. Bald-headed Man (Rembrandt's Father?) in Profile r.; small bust. 1630. B. 294</item>
+<item>25. Three Studies of Old Men's Heads. (1630.) B. 374</item>
+<item>26. Bust of an Old Man with Flowing Beard and White Sleeve. (1630.) B. 291</item>
+<item>27. Bust of an Old Man with Flowing Beard: the Head Bowed Forward: l. shoulder unshaded. 1630. B. 325</item>
+<item>28. Bust of an Old Man with Flowing Beard: the head inclined three-quarters r. 1630. B. 309</item>
+<item>29. Rembrandt in a Fur Cap: the Dress Light: bust. 1630. B. 24</item>
+<item>30. Rembrandt Bareheaded, in Sharp Light from r.; Looking over his Shoulder: bust. 1630. B. 10</item>
+<item>31. Rembrandt Bareheaded and Open-mouthed, as if Shouting: bust. 1630. B. 13</item>
+<item>32. Rembrandt in a Cap, Open-mouthed and Staring: bust in outline. 1630. B. 320</item>
+<item>33. Rembrandt Bareheaded, with Thick Curling Hair and Small White Collar: bust. (1630.) B. 1</item>
+<item>34. Rembrandt in a Cap, Laughing: Bust. 1630. B. 316</item>
+<item>35. Rembrandt Bareheaded, Leaning Forwards as if Listening: bust. (1630.) B. 9</item>
+<item>36. Rembrandt Bareheaded, Leaning Forward: bust lightly indicated. (1630-1.) B. 5</item>
+<item>37. Head of a Man in a Fur Cup, Crying Out. (1631.) B. 327</item>
+<item>38. The Blind Fiddler.  1631. B. 138</item>
+<item>39. Head of a Man in a High Cap: three-quarters r. (1631.) B. 302</item>
+<item>40. A Polander standing with Stick: profile to r. (the <q>Little Polander</q>). 1631. B. 142</item>
+<item>41. Sheet of Studies of Men's Heads (the plate afterwards cut into five parts). (1631.) B. 366</item>
+<item>42. Diana at the Bath. (1631.) B. 201</item>
+<item>43. Naked Woman Seated on a Mound. (1631.) B. 198</item>
+<item>44. Jupiter and Antiope: the smaller Plate. (1631.) B. 204</item>
+<item>45. A Man Making Water. 1631. B. 190</item>
+<item>46. A Woman Making Water. 1631. B. 191</item>
+<item>47. Bust of an Old Bearded Man Looking Down, three-quarters r. 1631. B. 260</item>
+<item>48. Bust of an Old Man with Flowing Beard: Head Nearly Erect: Eyes Cast Down: Looking Slightly l. 1631. B. 315</item>
+<item>49. Bust of an Old Man with Fur Cap and Flowing Beard: nearly full face: Eyes Direct. (1631.) B. 312</item>
+<item>50. Rembrandt's Mother with Hand on Chest: small bust. 1631. B. 349</item>
+<item>51. Rembrandt's Mother Seated Facing r., in an Oriental Headdress: half length, Showing Hands. 1631. B. 348</item>
+<item>52. Rembrandt's Mother Seated at a Table Looking r.: three-quarter length. (1631.) B. 343</item>
+<pb n="13" />
+<item>53. Bearded Man (Rembrandt's Father?) in Furred Oriental Cap and Robe: half length. 1631. B. 263</item>
+<item>54. Rembrandt Wearing a Soft Hat, Cocked: head only: body added afterwards. 1631. B. 7</item>
+<item>55. Rembrandt with Long Bushy Hair: head only. (1631.) B. 8</item>
+<item>56. Rembrandt in a Heavy Fur Cap: full face: bust. 1631. B. 16</item>
+<item>57. Rembrandt Wearing a Soft Cap: full face: head only. (1631.) B. 2</item>
+<item>58. Rembrandt with Cap Pulled Forward: bust. (1631.) B. 319</item>
+<item>59. Rembrandt with Fur Cap, in an Oval Border: bust. (1631.) B. 12</item>
+<item>&dagger;60.  Rembrandt with Bushy Hair and Contracted Eyebrows: bust. 1631. B. 25</item>
+<item>61. Rembrandt  Bareheaded, the Light Falling from the r.: bust. (1631.) B. 332</item>
+<item>&dagger;62. Rembrandt in a Slant Fur Cap: bust.  1631.  B. 14</item>
+<item>63. Rembrandt in a Cloak with Falling Collar: bust. 1631. B. 15</item>
+<item>&dagger;64. Rembrandt with a Jewel in his Cap. (1631.) Middleton, 18</item>
+<item>&dagger;65. Bust of a Young Man in a Cap. (1631.) B. 322</item>
+<item>66. Rembrandt in a Dark Cloak and Cap: bust. (1631.) B. 6</item>
+<item>67. Rembrandt(?), Scowling, in an Octagon: head only. (1631.) B. 336</item>
+<item>68. Grotesque Profile: Man in High Cap. (1631.) B. 326</item>
+<item>69. Peasant with his Hands Behind his Back. 1631. B. 135</item>
+<item>&dagger;70. Bust of a Snub-nosed Man in a Cap: Profile r. 1631. B. 317</item>
+<item>&dagger;71. Bust of a Man in a Cap, Bound Round the Ears and Chin. (1631.) B. 323</item>
+<item>72. Beggar with a Stick, Walking l. 1631. B. 167</item>
+<item>73. Beggar with his l. Hand Extended. 1631. B. 150</item>
+<item>74. The Blindness of Tobit: A Sketch. (1631.) B. 153</item>
+<item>75. Seated Beggar and his Dog. 1631. B. 175</item>
+<item>75.* A Stout Man in a Large Cloak. (1631.) B. 184</item>
+<item>&dagger;76. Old Woman Seated in a Cottage, with a String of Onions on the Wall. 1631. B. 134</item>
+<item>77. The Leper (<q>Lazarus Klap</q>). 1631. B. 171</item>
+<item>77.* Beggar Man and Beggar Woman. (1631.) B. 183</item>
+<item>78. Two Beggars Tramping towards the r. (1631.) B. 154</item>
+<item>78.* Two Studies of Beggars. (1631.) B. 182</item>
+<item>79. Beggar with a Crippled Hand Leaning on a Stick r. (1631.) B. 166</item>
+<item>80. Old Beggar Woman with a Gourd. (1631.) B. 168</item>
+<item>&dagger;8l. Beggar Standing Leaning on a Stick l.: small plate. (1631.) B. 169</item>
+<item>&dagger;82. Bust of an Old Woman in Furred Cloak and Heavy Headdress. 1631. B. 355</item>
+<item>&dagger;83. Bust of an Old Woman in a High Head-dress Bound Round the Chin. (1631.) B. 358</item>
+<item>&dagger;84. Bust of a Beardless Man (Rembrandt's Father?) in a Fur Cloak and Cap: Looking Down: three-quarters l. 1631. B. 307</item>
+<item>&dagger;85. Bust of a Bald Man (Rembrandt's Father?) in a Fur Cloak Looking r. 1631. B. 324</item>
+<pb n="14" />
+
+<item>&dagger;86. Bust of a Bald Man Looking Down, Grinning. 1631. B. 298</item>
+<item>&dagger;87. Bust of Bearded Old Man with High Forehead and Close Cap. 1631. B. 314</item>
+<item>&dagger;88. Bust of an Old Man Looking Down, with Wavy Hair and Beard:  cap added afterwards. (1631.)  B. 337 </item>
+<item>&dagger;89. Small Bust of Bearded Man Looking Down, with Eyes Nearly Closed. (1631.) B. 296</item>
+<item>90. Sheet of Studies:  Head of Rembrandt, Beggar Couple, Heads of Old Man and Old Woman, etc. (1632.)  B. 363</item>
+<item>&dagger;91. Rembrandt's  Mother  in Widow's Dress and Black Gloves. (1632) B. 344</item>
+<item>92. Old Man Seated, with Flowing Beard, Fur Cap and Velvet Cloak. (1632.) B. 262</item>
+<item>93. Man Standing in Oriental Costume and Plumed Fur Cap. 1632. B. 152</item>
+<item>94. St. Jerome Playing: Arched Print. 1632. B. 101</item>
+<item>95. The Holy Family. (1632.) B. 62</item>
+<item>96. The Raising of Lazarus: the larger Plate. (1632.) B. 73</item>
+<item>97. The Rat-Killer. 1632. B. 121</item>
+<item>98. Polander Leaning on a Stick: Profile l. (1632.) B. 141</item>
+<item>99. A Turbaned Soldier on Horseback. (1632.) B. 139</item>
+<item>100. A Cavalry Fight. (1632-3.) B. 117</item>
+<item>101. The Good Samaritan. 1633. B. 90</item>
+<item>102. The Descent from the Cross: first plate. 1633. B. 81, I</item>
+<item>103. The Descent from the Cross: second plate. 1633. B. 81, II, etc.</item>
+<item>104. Joseph's Coat Brought to Jacob. (1633.) B. 38</item>
+<item>105. The Flight into Egypt: small plate. 1633. B. 52</item>
+<item>106. The Ship of Fortune. 1633. B. 111</item>
+<item>107. Rembrandt's Mother in a Cloth Head-dress, Looking Down: head only. 1633. B. 351</item>
+<item>108. Rembrandt in Cap and Scarf: the Face Dark: bust. 1633. B. 17</item>
+<item>109. Rembrandt with Raised Sabre: half-length. 1634. B. 18</item>
+<item>110. Rembrandt with Plumed Cap and Lowered Sabre: three-quarter length: afterwards bust in oval. 1634. B. 23</item>
+<item>111. Jan Cornelis Sylvius, Preacher (r). 1634. B. 266</item>
+<item>112. Rembrandt's Wife Saskia, with Pearls in her Hair, bust. 1634. B. 347</item>
+<item>113. Woman Reading.  1634. B. 345</item>
+<item>114. A Peasant: One of a Pair, Calling Out. 1634. B. 177</item>
+<item>115. A Peasant: the Other of the Pair, Replying. 1634. B. 178</item>
+<item>116. Two Tramps, a Man and a Woman. (1634.) B. 144</item>
+<item>117. Sheet of Two Slight Studies: One of Two Peasants. (1634.) B. 373</item>
+<item>118. Joseph and Potiphar's Wife. 1634. B. 39</item>
+<item>119. St. Jerome Reading. 1634. B. 100</item>
+<item>120. The Angel Appearing to the Shepherds. 1634. B. 44</item>
+<item>121. Christ at Emmaus: the smaller plate. 1634. B. 88</item>
+<item>122. Christ and the Woman of Samaria: among Ruins. 1634. B. 71</item>
+<pb n="15" />
+<item>123. The Crucifixion: small plate. (1634.) B. 80</item>
+<item>124. The Tribute-Money. (1634.) B. 68</item>
+<item>125. The Stoning of S. Stephen. 1635. B. 97</item>
+<item>126. Christ Driving the Money-Changers from the Temple. 1635. B. 69</item>
+<item>127. Girl with Hair Falling on her Shoulders (the <q>Great Jewish Bride</q>). 1635. B. 340</item>
+<item>128. Jan Uytenbogaert, Preacher of the Sect of Arminian Remonstrants. 1635. B. 279</item>
+<item>129. Old Woman Sleeping. (1635-7.) B. 350</item>
+<item>130. Old Bearded Man in a High Fur Cap, with Closed Eyes. (1635.) B. 290</item>
+<item>131. The First Oriental Head (Rembrandt's Father?). 1635. B. 286</item>
+<item>132. The Second Oriental Head (Rembrandt's Father?). (1635.) B. 287</item>
+<item>133. The Third Oriental Head. 163;. B. 288</item>
+<item>134. The Fourth Oriental Head. (1635.)  B. 289</item>
+<item>&dagger;l35. Head of an Old Man in a High Fur Cap. (1635.) B. 299</item>
+<item>136. Bald Old Man with a Short Beard, in profile r.  0635.) B. 306</item>
+<item>&dagger;137. Curly-headed Man with a Wry Mouth.  (1635.)  B. 305</item>
+<item>138. Polander Standing with Arms Folded. (1635.) B. 140</item>
+<item>139. The Quacksalver. 1635. B. 129</item>
+<item>140. St. Jerome Kneeling in Prayer, Looking Down. 1635. B. 102</item>
+<item>141. The Pan-cake Woman. 1635. B. 124</item>
+<item>&dagger;142. The Strolling Musicians. (1635.) B. 119</item>
+<item>143. Christ before Pilate: large plate. 1635-6. B. 77</item>
+<item>144. Rembrandt and his Wife Saskia: busts. 1636. B. 19</item>
+<item>145. Studies of the Head of Saskia and others. 1636. B. 365</item>
+<item>146. Samuel Manasseh Ben Israel, Jewish Author. 1636. B. 269</item>
+<item>147. The Return of the Prodigal Son. 1636. B. 91</item>
+<item>148. Abraham  Caressing Isaac. (1637.) B. 33</item>
+<item>149. Abraham Casting Out Hagar and Ishmael. 1637. B. 30</item>
+<item>150. Bearded Man Wearing a Velvet Cap with a Jewel Clasp. 1637. B. 313</item>
+<item>151. Young Man in a Velvet Cap with Books Beside Him. 1637. B. 268</item>
+<item>152. Three Heads of Women, one Asleep. 1637. B. 368</item>
+<item>153. Three Heads of Women, one Lightly Etched. (1637.) B. 367</item>
+<item>154. Study of Saskia as S. Catherine (the <q>Little Jewish Bride</q>). 1638. B. 342</item>
+<item>155. Sheet with Two Studies: a Tree, and the Upper Part of a Head Wearing a Velvet Cap. (1638.) B. 372</item>
+<item>156. Rembrandt in Velvet Cap and Plume, with an Embroidered Dress: bust. 1638. B. 20</item>
+<item>157. Rembrandt in a Flat Cap with a Shawl About His Shoulders. (1638.) B. 26</item>
+<item>158. Man in a Broad-Brimmed Hat and Ruff. (1630.) B. 311</item>
+<item>159. Adam and Eve. 1638. B. 28</item>
+<pb n="16" />
+
+<item>160. Joseph Telling His Dreams. 1638. B. 37</item>
+<item>161. The Death of the Virgin. 1639. B. 99</item>
+<item>162. The Presentation in the Temple: an oblong print. (1639.) B. 49</item>
+<item>163. Sheet of Studies, with a Woman Lying Ill in Bed, etc. (1639.) B. 369</item>
+<item>164. A Peasant in a High Cap, Standing Leaning on a Stick. 1639. B. 133</item>
+<item>165. Death Appearing to a Wedded Couple From An Open Grave. 1639. B. 109</item>
+<item>166. The Skater. (1639.) B. 156</item>
+<item>167. Jan Uytenbogaert, Receiver-General (the <q>Gold-Weigher</q>). 1639. B. 281</item>
+<item>168. Rembrandt Leaning on a Stone Sill: half length. 1639. B. 21</item>
+<item>169. Old Man Shading His Eyes with His Hand. (1639.) B. 259</item>
+<item>170. Old Man with a Divided Fur Cap. 1640. B. 265</item>
+<item>171. The Beheading of John the Baptist. 1640. B. 92</item>
+<item>172. The Triumph of Mordecai. (1640.) B. 40</item>
+<item>173. Christ Crucified Between the Two Thieves: an oval plate. (1640.) B. 79</item>
+<item>174. Sleeping Puppy. (1640.) B. 158</item>
+<item>175. Small Grey Landscape: A House and Trees Beside a Pool. (1640.) B. 207</item>
+<item>176. View of Amsterdam. (1640.) B. 210</item>
+<item>177. Landscape with a Cottage and Hay Barn: oblong. 1641. B. 225</item>
+<item>178. Landscape with a Cottage and a Large Tree. 1641. B. 226</item>
+<item>179. The Windmill.  1641.  B. 233</item>
+<item>180. The Small Lion Hunt (with Two Lions). (1641.) B. 115</item>
+<item>181. The Large Lion Hunt. 1641. B. 114</item>
+<item>182. The Baptism of the Eunuch. 1641. B. 98</item>
+<item>183. Jacob and Laban(?). 1641. B. 118</item>
+<item>184. The Spanish Gipsy (Preciosa). (1641.) B. 120</item>
+<item>185. The Angel Departing from the Family of Tobias. 1641. B. 185.</item>
+<item>186. Virgin and Child in the Clouds. 1641. B. 61</item>
+<item>187. Cornelis Claesz Anslo, Mennonite Preacher. 1641. B. 271</item>
+<item>188. Portrait of a Boy, in profile. 1641. B. 310</item>
+<item>189. Man at Desk, Wearing Cross and Chain. 1641. B. 261.</item>
+<item>190. The Card-Player. 1641. B. 136</item>
+<item>191. Man Drawing from a Cast. (1641.) B. 130</item>
+<item>192. Woman at a Door-hatch Talking to a Man and Children (the <q>Schoolmaster</q>). 1641. B. 128</item>
+<item>193. The Virgin with the Instruments of the Passion. (1641.) B. 85</item>
+<item>194. Man in an Arbour. 1642. B. 257</item>
+<item>195. Girl with a Basket. (1642.) B. 356</item>
+<item>196. Sick Woman with Large White Head-dress (Saskia). (1642.) B. 359</item>
+<pb n="17" />
+<item>197. Woman in Spectacles, Reading. (1642.) B. 362</item>
+<item>198. The Raising of Lazarus: the smaller plate.  1642.  B. 72</item>
+<item>199. The Descent from the Cross: a Sketch.  1642. B. 82</item>
+<item>200. The Flute-Player (L'Espiegle). 1642.  B. 188</item>
+<item>201. St. Jerome in a Dark Chamber. 1642.  B. 105</item>
+<item>202. Student at a Table by Candlelight. (1642.) B. 148</item>
+<item>203. Cottage with a White Paling. 1642. B. 232</item>
+<item>204. The Hog.  1643.  B. 157</item>
+<item>205. The Three Trees.  1643. B. 212</item>
+<item>206. The Shepherd and his Family. 1644. B. 220</item>
+<item>207. The Sleeping Herdsman. (1644.) B. 189</item>
+<item>208. The Rest on the Flight: a Night Piece. (1644.) B. 57</item>
+<item>209. Six's Bridge.  1645.  B. 208</item>
+<item>210. The Omval.  1645.  B. 209</item>
+<item>211. The Boat-house. 1645. B. 231</item>
+<item>212. Cottages beside a Canal: with a Church and Sailing Boat. (1645.) B. 228</item>
+<item>213. Cottages and Farm Buildings with a Man Sketching. (1645.) B. 219</item>
+<item>214. Abraham and Isaac.  1645. B. 34</item>
+<item>215. Christ Carried to the Tomb. (1645.) B. 84</item>
+<item>216. The Rest on the Flight: lightly etched. 1645. B. 58</item>
+<item>217. S. Peter in Penitence. 1645. B. 96</item>
+<item>218. Old Man in Meditation, Leaning on a Book. (1645.) B. 147</item>
+<item>219. Beggar Woman Leaning on a Stick. 1646. B. 70</item>
+<item>220. Study from the Nude: Man Seated Before a Curtain. 1646. B. 193</item>
+<item>221.  Study from the Nude: Man Seated on the Ground with One Leg Extended. 1646. B. 196</item>
+<item>222. Studies from the Nude: One Man Seated and Another Standing: with a Woman and Baby lightly etched in the background. (1646.) B. 194</item>
+<item>223. Le Lit &agrave; la Fran&ccedil;aise (Ledekant). 1646. B. 186</item>
+<item>224. The Monk in the Cornfield. (1646.) B. 187</item>
+<item>225. Jan Cornells Sylvius, Preacher: posthumous portrait. 1646. B. 280</item>
+<item>226. Ephraim Bonus, Jewish Physician. 1647. B. 278</item>
+<item>227. Jan Asselyn, Painter. (1647.) B. 277</item>
+<item>228. Jan Six. 1647.  B. 285</item>
+<item>229. Rembrandt Drawing at a Window. 1648. B. 22</item>
+<item>230. Sheet of Studies with the Head of Rembrandt, a Beggar Man, Woman and Child. (1648.) B. 370</item>
+<item>231. The Artist Drawing from a Model: unfinished plate. (1648.) B. 192</item>
+<item>232. S. Jerome Beside a Pollard Willow. 1648. B. 103</item>
+<item>233. Beggars Receiving Alms at the Door of a House. 1648. B. 176</item>
+<item>234. Jews in a Synagogue. 1648. B. 126</item>
+<item>235. Medea: or the Marriage of Jason and Creusa. 1648. B. 112</item>
+<item>236. Christ, with the Sick Around Him, receiving Little Children (the <q>Hundred Guilder Print</q>). (1649.) B. 74</item>
+<pb n="18" />
+
+
+<item>237. The Incredulity of Thomas. 1650. B. 89</item>
+<item>238. Canal with an Angler and Two Swans. 1650. B. 235</item>
+<item>239. Canal with a Large Boat and Bridge. 1650. B. 236</item>
+<item>240. Landscape with a Cow Drinking. (1650.) B. 237</item>
+<item>241. Landscape with a Hay Barn and a Flock of Sheep. 1650. B. 224</item>
+<item>242. Landscape with a Milk-man. (1650.) B. 213</item>
+<item>243. Landscape with an Obelisk. (1650.) B. 227</item>
+<item>244. Landscape with Trees, Farm-buildings and a Tower. 1650. B. 223</item>
+<item>245. Landscape with a Square Tower. 1650. B. 218</item>
+<item>246. Landscape with Three Gabled Cottages Beside a Road. 1650. B. 217</item>
+<item>247. The Bull. (1650.) B. 253</item>
+<item>248. The Shell.  1650. B. 159</item>
+<item>249. The  Goldweigher's  Field. 1651. B. 234</item>
+<item>250. The Bathers. 1651. B. 195</item>
+<item>251. Clement de Jonghe, Printseller. 1651. B. 272</item>
+<item>252. The Blindness of Tobit: the larger plate. 1651. B. 42</item>
+<item>253. The Flight into Egypt: a Night Piece. 1651. B. 53</item>
+<item>254. The Star of the Kings: a Night Piece. (1652.) B. 113</item>
+<item>255. Adoration of the Shepherds; a Night Piece. (1652.) B. 46</item>
+<item>256. Christ Preaching (<q>la Petite Tombe</q>). (1652.) B. 57</item>
+<item>257. Christ Disputing with the Doctors: a sketch. 1652. B. 65</item>
+<item>258. David in Prayer.  1652. B. 41</item>
+<item>259. Peasant Family on the Tramp. (1652.) B. 131</item>
+<item>260. Faust in His Study, Watching a Magic Disk. (1652.) B. 270</item>
+<item>261. Titus Van Ryn, Rembrandt's Son. (1656.) B. 11</item>
+<item>262. Sheet of Studies, with a Wood and Paling, Part of Two Heads, and a Horse and Cart. (1652.) B. 364</item>
+<item>263. Clump of Trees with a Vista. 1652.  B. 222</item>
+<item>264. Landscape with a Road Beside a Canal. (1652.) B. 221</item>
+<item>265. Landscape with Sportsman and Dogs. (1653.) B. 211</item>
+<item>266. The Flight into Egypt: altered from Tobias and the Angel by Hercules Seghers. (1653.) B. 56</item>
+<item>267. S. Jerome Reading, in an Italian Landscape.  (1653.) B. 104</item>
+<item>268. Jan Antonides van der Linden, Professor of Medicine.  1665. B. 264</item>
+<item>269. Lieven Willemsz Van Coppenol, Writing-Master: the smaller plate. (1653.) B. 282 270. Christ Crucified between the Two Thieves: large oblong plate (the <q>Three Crosses</q>).  1653. B. 78</item>
+<item>271. Christ Presented to the People: large oblong plate.  1655.  B. 76 </item>
+<item>272. The Golf-Player.  1654. B. 125</item>
+<item>273. The Adoration of the Shepherds (with the Lamp). (1654.) B. 45</item>
+<item>274. The Circumcision (in the Stable). 1654. B. 47</item>
+<item>275. The Virgin and Child with the Cat: and Joseph at the Window. 1654. B. 63</item>
+<item>276. The Flight into Egypt: Holy Family Crossing a Brook. 1654. B. 55.</item>
+<item>277. Christ Seated Disputing with the Doctors. 1654. B. 64</item>
+<item>278. Christ Between His Parents, Returning from the Temple. 1654. B. 60</item>
+<item>279. The Presentation in the Temple: in the Dark Manner. (1654.) B. 50</item>
+<item>280. The Descent from the Cross: by Torchlight. 1654. B. 83</item>
+<item>281. The Entombment. (1654.) B. 86</item>
+<item>282. Christ at Emmaus: the larger plate. 1654. B. 87.</item>
+<item>283. Abraham's Sacrifice.  1655. B. 35</item>
+<item>284. Four Illustrations to a Spanish Book. (A. The Image seen by Nebuchadnezzar. B. Jacob's Ladder. C. David and Goliath. D. Daniel's Vision of Four Beasts.) 1655. B. 36</item>
+<item>285. The Goldsmith. 1655. B. 123</item>
+<item>286. Abraham Entertaining the Angels. 1656. B. 29</item>
+<item>287. Jacob Haaring (the <q>Old Haaring</q>). (1655.) B. 274</item>
+<item>288. Thomas Jacobsz Haaring (the <q>Young Haaring.</q>) 1655. B. 275</item>
+<item>289. Arnold Tholinx, Inspector of Medical Colleges at Amsterdam. (1656.) B. 284</item>
+<item>290. Jan Lutma, the Elder, Goldsmith and Sculptor. 1656. B. 276</item>
+<item>291. Abraham Francen, Art Dealer. (1656.) B. 273</item>
+<item>292. S. Francis Beneath a Tree, Praying. 1657. B. 107</item>
+<item>293. The Agony in the Garden. (1657.) B. 75</item>
+<item>294. Christ and the Woman of Samaria: an Arched Print. 1658. B. 70</item>
+<item>295. The Phrenix; or the Statue Overthrown: an Allegory of Doubtful Meaning. 1658. B. 110</item>
+<item>296. Woman Sitting Half Dressed Beside a Stove. 1658. B. 197</item>
+<item>297. Woman at the Bath, with a Hat Beside Her. 1658. B. 199</item>
+<item>298. Woman Bathing Her Feet at a Brook. 1658. B. 200</item>
+<item>299. Negress Lying Down. 1658. B. 205</item>
+<item>300. Lieven Willemsz Van Coppenol, Writing-Master: the larger plate. (1658.) B. 283</item>
+<item>300*. Rembrandt Etching. 1658. Seidlitz, 379</item>
+<item>301. Peter and John Healing the Cripple at the Gate of the Temple. 1659. B. 94</item>
+<item>302. Jupiter and Antiope: the larger plate. 1659. B. 103</item>
+<item>303. The Woman with the Arrow. 1661. B. 202</item>
+</list>
+<p>
+The title-page border is taken from a portrait etching by Juriaen Ovens, of Frederick III of Holstein Gottdorp.
+</p>
+</div>
+
+<div>
+<pb n="21" />
+<figure url="images/no_001.jpg" rend="w60">
+<index index="fig" />
+<head>1, I. REMBRANDT'S MOTHER, Unfinished state. 1628: B. 354.</head>
+<figDesc>1, I, REMBRANDT'S MOTHER, Unfinished state. 1628: B. 354.</figDesc>
+</figure>
+
+<pb n="23" />
+<figure url="images/no_007.jpg" rend="w60">
+<index index="fig" />
+<head>7, I. BEGGAR MAN AND BEGGAR WOMAN CONVERSING. 1630. B. 164</head>
+<figDesc>7, I. BEGGAR MAN AND BEGGAR WOMAN CONVERSING. 1630. B. 164</figDesc>
+</figure>
+
+<pb n="25" />
+<figure url="images/no_020.jpg" rend="w60">
+<index index="fig" />
+<head>20, I. CHRIST DISPUTING WITH THE DOCTORS: SMALL PLATE. 1630. B. 66</head>
+<figDesc>20, I. CHRIST DISPUTING WITH THE DOCTORS: SMALL PLATE. 1630. B. 66</figDesc>
+</figure>
+
+<pb n="27" />
+<figure url="images/no_023.jpg" rend="w60">
+<index index="fig" />
+<head>23, I. BALD-HEADED MAN (REMBRANDT'S FATHER?) In profile <emph>r.;</emph> head only, bust added afterwards. 1630. B. 292. First state, the body being merely indicated in ink</head>
+<figDesc>23, I. BALD-HEADED MAN (REMBRANDT'S FATHER?) In profile <emph>r.;</emph> head only, bust added afterwards. 1630. B. 292. First state, the body being merely indicated in ink</figDesc>
+</figure>
+
+<pb n="29" />
+<figure url="images/no_038.jpg" rend="w50">
+<index index="fig" />
+<head>38, II. THE BLIND FIDDLER. 1631. B. 138</head>
+<figDesc>38, II. THE BLIND FIDDLER. 1631. B. 138</figDesc>
+</figure>
+
+<pb n="31" />
+<figure url="images/40139164.jpg" rend="w70">
+<index index="fig" />
+<head>40. THE LITTLE POLANDER. 1631. B. 142.  139. THE QUACKSALVER. 1635. B. 129.  164. A PEASANT IN A HIGH CAP, STANDING LEANING ON A STICK. 1639. B. 133</head>
+<figDesc>40139164. THE LITTLE POLANDER. 1631. B. 142.  139. THE QUACKSALVER. 1635. B. 129.  164. A PEASANT IN A HIGH CAP, STANDING LEANING ON A STICK. 1639. B. 133</figDesc>
+</figure>
+
+<pb n="33" />
+<figure url="images/no_052.jpg" rend="w90">
+<index index="fig" />
+<head>52, III. REMBRANDT'S MOTHER SEATED. (1631.) B. 343.</head>
+<figDesc>52, III. REMBRANDT'S MOTHER SEATED. (1631.) B. 343.</figDesc>
+</figure>
+
+<pb n="35" />
+<figure url="images/no_054.jpg" rend="w90">
+<index index="fig" />
+<head>54, VI. REMBRANDT WEARING A SOFT HAT, COCKED. 1631. B. 7. Later state, the body added.</head>
+<figDesc>54, VI. REMBRANDT WEARING A SOFT HAT, COCKED. 1631. B. 7. Later state, the body added.</figDesc>
+</figure>
+
+<pb n="37" />
+<figure url="images/no_057.jpg" rend="w40">
+<index index="fig" />
+<head>57. REMBRANDT WEARING A SOFT CAP. (1631.) B. 2</head>
+<figDesc>57. REMBRANDT WEARING A SOFT CAP. (1631.) B. 2</figDesc>
+</figure>
+
+<pb n="39" />
+<figure url="images/no_097.jpg" rend="w90">
+<index index="fig" />
+<head>97, I. THE RAT-KILLER. 1632. B. 121</head>
+<figDesc>97, I. THE RAT-KILLER. 1632. B. 121</figDesc>
+</figure>
+
+<pb n="41" />
+<figure url="images/no_110.jpg" rend="w90">
+<index index="fig" />
+<head>110, I. REMBRANDT WITH PLUMED HAT, AND SABRE. 1634. B. 23. This plate was afterwards cut down to a bust in an oval.</head>
+<figDesc>110, I. REMBRANDT WITH PLUMED HAT, AND SABRE. 1634. B. 23. This plate was afterwards cut down to a bust in an oval.</figDesc>
+</figure>
+
+<pb n="43" />
+<figure url="images/no_112.jpg" rend="w60">
+<index index="fig" />
+<head>112. REMBRANDT'S WIFE, SASKIA, WITH PEARLS IN HER HAIR. 1634. B. 347</head>
+<figDesc>112. REMBRANDT'S WIFE, SASKIA, WITH PEARLS IN HER HAIR. 1634. B. 347</figDesc>
+</figure>
+
+<pb n="45" />
+<figure url="images/no_127.jpg" rend="w90">
+<index index="fig" />
+<head>127, I. THE GREAT JEWISH BRIDE. 1635. B. 340. Unfinished state</head>
+<figDesc>127, I. THE GREAT JEWISH BRIDE. 1635. B. 340. Unfinished state</figDesc>
+</figure>
+
+<pb n="47" />
+<figure url="images/no_129.jpg" rend="w50">
+<index index="fig" />
+<head>129. OLD WOMAN SLEEPING. (1635-7.) B. 350.</head>
+<figDesc>129. OLD WOMAN SLEEPING. (1635-7.) B. 350.</figDesc>
+</figure>
+
+<pb n="49" />
+<figure url="images/no_147.jpg" rend="w90">
+<index index="fig" />
+<head>147. THE RETURN OF THE PRODIGAL SON. 1636. B. 91</head>
+<figDesc>147. THE RETURN OF THE PRODIGAL SON. 1636. B. 91</figDesc>
+</figure>
+
+<pb n="51" />
+<figure url="images/no_151.jpg" rend="w60">
+<index index="fig" />
+<head>151, II. YOUNG MAN IN A VELVET CAP, WITH BOOKS BESIDE HIM. 1637. B. 268</head>
+<figDesc>151, II. YOUNG MAN IN A VELVET CAP, WITH BOOKS BESIDE HIM. 1637. B. 268</figDesc>
+</figure>
+
+<pb n="53" />
+<figure url="images/no_153.jpg" rend="w90">
+<index index="fig" />
+<head>153, I. THREE HEADS OF WOMEN. (1637.) B. 367. First state, with one head (portrait of Saskia) only</head>
+<figDesc>153, I. THREE HEADS OF WOMEN. (1637.) B. 367. First state, with one head (portrait of Saskia) only</figDesc>
+</figure>
+
+<pb n="55" />
+<figure url="images/no_161.jpg" rend="w90">
+<index index="fig" />
+<anchor id="no161" />
+<head>161, I. THE DEATH OF THE VIRGIN. 1639. B. 99</head>
+<figDesc>161, I. THE DEATH OF THE VIRGIN. 1639. B. 99</figDesc>
+</figure>
+
+<pb n="57" />
+<figure url="images/no_167.jpg" rend="w90">
+<index index="fig" />
+<head>167, I. JAN UYTENBOGAERT, RECEIVER-GENERAL (THE <q>GOLD-WEIGHER</q>). 1639. B-281. First state, the face only lightly indicated</head>
+<figDesc>167, I. JAN UYTENBOGAERT, RECEIVER-GENERAL (THE <q>GOLD-WEIGHER</q>). 1639. B-281. First state, the face only lightly indicated</figDesc>
+</figure>
+
+<pb n="59" />
+<figure url="images/no_168.jpg" rend="w90">
+<index index="fig" />
+<head>168, I. REMBRANDT LEANING ON A STONE SILL. 1639.  B. 21 From an impression touched by the artist in black chalk</head>
+<figDesc>168, I. REMBRANDT LEANING ON A STONE SILL. 1639.  B. 21 From an impression touched by the artist in black chalk</figDesc>
+</figure>
+
+<pb n="61" />
+<figure url="images/no_172.jpg" rend="w90">
+<index index="fig" />
+<anchor id="no172" />
+<head>172. THE TRIUMPH OF MORDECAI. (1640, or later.) B. 40</head>
+<figDesc>172. THE TRIUMPH OF MORDECAI. (1640, or later.) B. 40</figDesc>
+</figure>
+
+<pb n="63" />
+<figure url="images/no175196.jpg" rend="w70">
+<index index="fig" />
+<head>175. SMALL GREY LANDSCAPE. (1640.) B. 207.  196. SICK WOMAN WITH LARGE WHITE HEAD-DRESS (SASKIA). (1642.) B. 359</head>
+<figDesc>175. SMALL GREY LANDSCAPE. (1640.) B. 207.  196. SICK WOMAN WITH LARGE WHITE HEAD-DRESS (SASKIA). (1642.) B. 359</figDesc>
+</figure>
+
+<pb n="65" />
+<figure url="images/no_176.jpg" rend="w70">
+<index index="fig" />
+<head>176, II. VIEW OF AMSTERDAM. (1640.) B. 210</head>
+<figDesc>176, II. VIEW OF AMSTERDAM. (1640.) B. 210</figDesc>
+</figure>
+
+<pb n="67" />
+<figure url="images/no_179.jpg" rend="w70">
+<index index="fig" />
+<head>179. THE WINDMILL. 1641. B. 233</head>
+<figDesc>179. THE WINDMILL. 1641. B. 233</figDesc>
+</figure>
+
+<pb n="69" />
+<figure url="images/no_184.jpg" rend="w90">
+<index index="fig" />
+<head>184. THE SPANISH GIPSY. (1641.) B. 120</head>
+<figDesc>184. THE SPANISH GIPSY. (1641.) B. 120</figDesc>
+</figure>
+
+<pb n="71" />
+<figure url="images/no_198.jpg" rend="w90">
+<index index="fig" />
+<head>198, I. THE RAISING OF LAZARUS. 1642. B. 72</head>
+<figDesc>198, I. THE RAISING OF LAZARUS. 1642. B. 72</figDesc>
+</figure>
+
+<pb n="73" />
+<figure url="images/no_205.jpg" rend="w90">
+<index index="fig" />
+<anchor id="no205" />
+<head>205. THE THREE TREES. (1643.) B. 212</head>
+<figDesc>205. THE THREE TREES. (1643.) B. 212</figDesc>
+</figure>
+
+<pb n="75" />
+<figure url="images/no_209.jpg" rend="w70">
+<index index="fig" />
+<head>209, I. SIX'S BRIDGE. 1645. B. 208</head>
+<figDesc>209, I. SIX'S BRIDGE. 1645. B. 208</figDesc>
+</figure>
+
+<pb n="77" />
+<figure url="images/no_215.jpg" rend="w90">
+<index index="fig" />
+<head>215. CHRIST CARRIED TO THE TOMB. (1645.) B. 84</head>
+<figDesc>215. CHRIST CARRIED TO THE TOMB. (1645.) B. 84</figDesc>
+</figure>
+
+<pb n="79" />
+<figure url="images/no_216.jpg" rend="w90">
+<index index="fig" />
+<head>216. THE REST ON THE FLIGHT: LIGHTLY ETCHED. 1645. B. 58</head>
+<figDesc>216. THE REST ON THE FLIGHT: LIGHTLY ETCHED. 1645. B. 58</figDesc>
+</figure>
+
+<pb n="81" />
+<figure url="images/no_228.jpg" rend="w90">
+<index index="fig" />
+<head>228, II. JAN SIX. 1647. B. 285</head>
+<figDesc>228, II. JAN SIX. 1647. B. 285</figDesc>
+</figure>
+
+<pb n="83" />
+<figure url="images/no_229.jpg" rend="w90">
+<index index="fig" />
+<head>229, I. REMBRANDT DRAWING AT A WINDOW.  1648. B. 22. Unfinished state.</head>
+<figDesc>229, I. REMBRANDT DRAWING AT A WINDOW.  1648. B. 22. Unfinished state.</figDesc>
+</figure>
+
+<pb n="85" />
+<figure url="images/no_231.jpg" rend="w90">
+<index index="fig" />
+<anchor id="no231" />
+<head>231, I. THE ARTIST DRAWING FROM A MODEL, (1648, or later?)  B. 192. Unfinished plate</head>
+<figDesc>231, I. THE ARTIST DRAWING FROM A MODEL, (1648, or later?)  B. 192. Unfinished plate</figDesc>
+</figure>
+
+<pb n="87" />
+<figure url="images/no_232.jpg" rend="w90">
+<index index="fig" />
+<head>232, I. ST. JEROME BESIDE A POLLARD WILLOW.  1648. B. 103</head>
+<figDesc>232, I. ST. JEROME BESIDE A POLLARD WILLOW.  1648. B. 103</figDesc>
+</figure>
+
+<pb n="89" />
+<figure url="images/no_234.jpg" rend="w60">
+<index index="fig" />
+<head>234, I. JEWS IN SYNAGOGUE. 1648. B. 126</head>
+<figDesc>234, I. JEWS IN SYNAGOGUE. 1648. B. 126</figDesc>
+</figure>
+
+<pb n="91" />
+<figure url="images/no_236.jpg" rend="w90">
+<index index="fig" />
+<anchor id="no236" />
+<head>236, I. CHRIST, WITH THE SICK AROUND HIM, RECEIVING LITTLE CHILDREN (The <q>Hundred Guilder Print</q>). (1649.) B. 74. First state, before adding shading on the neck of the ass, <emph>r.</emph>  Only nine impressions of this state are known, two being in the British Museum</head>
+<figDesc>236, I. CHRIST, WITH THE SICK AROUND HIM, RECEIVING LITTLE CHILDREN (The <q>Hundred Guilder Print</q>). (1649.) B. 74. First state, before adding shading on the neck of the ass, <emph>r.</emph>  Only nine impressions of this state are known, two being in the British Museum</figDesc>
+</figure>
+
+<pb n="93" />
+<figure url="images/no_239.jpg" rend="w60">
+<index index="fig" />
+<head>239, I. CANAL WITH A LARGE BOAT AND BRIDGE. 1650. B. 236</head>
+<figDesc>239, I. CANAL WITH A LARGE BOAT AND BRIDGE. 1650. B. 236</figDesc>
+</figure>
+
+<pb n="95" />
+<figure url="images/no_242.jpg" rend="w50">
+<index index="fig" />
+<head>242, I. LANDSCAPE WITH A MILKMAN. (1650.) B. 213</head>
+<figDesc>242, I. LANDSCAPE WITH A MILKMAN. (1650.) B. 213</figDesc>
+</figure>
+
+<pb n="97" />
+<figure url="images/no_244.jpg" rend="w50">
+<index index="fig" />
+<anchor id="no244" />
+<head>244, III. LANDSCAPE WITH TREES, FARM BUILDINGS AND A TOWER. (1650.) B. 223. The two earlier states show the tower surmounted by a. cupola, which was burnished out to increase the concentration of the subject</head>
+<figDesc>244, III. LANDSCAPE WITH TREES, FARM BUILDINGS AND A TOWER. (1650.) B. 223. The two earlier states show the tower surmounted by a. cupola, which was burnished out to increase the concentration of the subject</figDesc>
+</figure>
+
+<pb n="99" />
+<figure url="images/no_249.jpg" rend="w50">
+<index index="fig" />
+<head>249. THE GOLDWEIGHER'S FIELD. 1651. B. 234</head>
+<figDesc>249. THE GOLDWEIGHER'S FIELD. 1651. B. 234</figDesc>
+</figure>
+
+<pb n="101" />
+<figure url="images/no_251.jpg" rend="w90">
+<index index="fig" />
+<anchor id="no251" />
+<head>251, I. CLEMENT DE JONGHE, PRINTSELLER. 1651. B. 272</head>
+<figDesc>251, I. CLEMENT DE JONGHE, PRINTSELLER. 1651. B. 272</figDesc>
+</figure>
+
+<pb n="103" />
+<figure url="images/no_252.jpg" rend="w90">
+<index index="fig" />
+<head>252. THE BLINDNESS OF TOBIT: THE LARGER PLATE.  1651. B. 42</head>
+<figDesc>252. THE BLINDNESS OF TOBIT: THE LARGER PLATE.  1651. B. 42</figDesc>
+</figure>
+
+<pb n="105" />
+<figure url="images/no_254.jpg" rend="w80">
+<index index="fig" />
+<head>254. THE STAR OF THE KINGS: A NIGHT PIECE. (1652.) B. 113</head>
+<figDesc>254. THE STAR OF THE KINGS: A NIGHT PIECE. (1652.) B. 113</figDesc>
+</figure>
+
+<pb n="107" />
+<figure url="images/no_256.jpg" rend="w90">
+<index index="fig" />
+<head>256. CHRIST PREACHING (<q>LA PETITE TOMBE</q>). 1652 B. 67</head>
+<figDesc>256. CHRIST PREACHING (<q>LA PETITE TOMBE</q>). 1652 B. 67</figDesc>
+</figure>
+
+<pb n="109" />
+<figure url="images/no_257.jpg" rend="w80">
+<index index="fig" />
+<head>257, I. CHRIST DISPUTING WITH THE DOCTORS; A SKETCH. 1652. B. 65</head>
+<figDesc>257, I. CHRIST DISPUTING WITH THE DOCTORS; A SKETCH. 1652. B. 65</figDesc>
+</figure>
+
+<pb n="111" />
+<figure url="images/no_261.jpg" rend="w60">
+<index index="fig" />
+<head>261. TITUS VAN RYN, REMBRANDT'S SON. (1656.) B. 11</head>
+<figDesc>261. TITUS VAN RYN, REMBRANDT'S SON. (1656.) B. 11</figDesc>
+</figure>
+
+<pb n="113" />
+<figure url="images/no_264.jpg" rend="w50">
+<index index="fig" />
+<head>264. LANDSCAPE WITH A ROAD BESIDE A CANAL. 1652. B. 221</head>
+<figDesc>264. LANDSCAPE WITH A ROAD BESIDE A CANAL. 1652. B. 221</figDesc>
+</figure>
+
+<pb n="115" />
+<figure url="images/no_267.jpg" rend="w90">
+<index index="fig" />
+<head>267, I. ST. JEROME READING, IN AN ITALIAN LANDSCAPE. (1653.) B. 104</head>
+<figDesc>267, I. ST. JEROME READING, IN AN ITALIAN LANDSCAPE. (1653.) B. 104</figDesc>
+</figure>
+
+<pb n="117" />
+<figure url="images/no_270_1.jpg" rend="w90">
+<index index="fig" />
+<anchor id="no270" />
+<head>270, I. THE THREE CROSSES. 1653. B. 78. First state</head>
+<figDesc>270, I. THE THREE CROSSES. 1653. B. 78. First state</figDesc>
+</figure>
+
+<pb n="119" />
+<figure url="images/no_270_4.jpg" rend="w90">
+<index index="fig" />
+<head>270, IV. THE THREE CROSSES. 1653. B. 78. Fourth state. The plate entirely transformed: ihe figures in the middle and foreground, <emph>l.</emph>, almost entirely effaced; a new group added <emph>l.</emph> of the central cross,</head>
+<figDesc>270, IV. THE THREE CROSSES. 1653. B. 78. Fourth state. The plate entirely transformed: ihe figures in the middle and foreground, <emph>l.</emph>, almost entirely effaced; a new group added <emph>l.</emph> of the central cross,</figDesc>
+</figure>
+
+<pb n="121" />
+<figure url="images/no_271_1.jpg" rend="w90">
+<index index="fig" />
+<anchor id="no271" />
+<head>271, I. CHRIST PRESENTED TO THE PEOPLE.  1655.  B 76. First state</head>
+<figDesc>271, I. CHRIST PRESENTED TO THE PEOPLE.  1655.  B 76. First state</figDesc>
+</figure>
+
+<pb n="123" />
+<figure url="images/no_271_5.jpg" rend="w90">
+<index index="fig" />
+<head>271, V. CHRIST PRESENTED TO THE PEOPLE. 1655. B. 76. Fifth state, all the foreground figures in front of the tribune erased, concentrating the subject on the central figure</head>
+<figDesc>271, V. CHRIST PRESENTED TO THE PEOPLE. 1655. B. 76. Fifth state, all the foreground figures in front of the tribune erased, concentrating the subject on the central figure</figDesc>
+</figure>
+
+<pb n="125" />
+<figure url="images/no_275.jpg" rend="w90">
+<index index="fig" />
+<head>275, I. THE VIRGIN AND CHILD WITH THE CAT. 1654. B. 63</head>
+<figDesc>275, I. THE VIRGIN AND CHILD WITH THE CAT. 1654. B. 63</figDesc>
+</figure>
+
+<pb n="127" />
+<figure url="images/no_279.jpg" rend="w90">
+<index index="fig" />
+<head>279. THE PRESENTATION IN THE TEMPLE: IN THE DARK MANNER. (1654.) B. 50.</head>
+<figDesc>279. THE PRESENTATION IN THE TEMPLE: IN THE DARK MANNER. (1654.) B. 50.</figDesc>
+</figure>
+
+<pb n="129" />
+<figure url="images/no_281.jpg" rend="w90">
+<index index="fig" />
+<anchor id="no281" />
+<head>281, I. THE ENTOMBMENT.  (1654.)  B. 86. The Print is greatly darkened in its later states</head>
+<figDesc>281, I. THE ENTOMBMENT.  (1654.)  B. 86. The Print is greatly darkened in its later states</figDesc>
+</figure>
+
+<pb n="131" />
+<figure url="images/no_282.jpg" rend="w90">
+<index index="fig" />
+<anchor id="no282" />
+<head>282, I. CHRIST AT EMMAUS: THE LARGER PLATE. 1654. B. 87</head>
+<figDesc>282, I. CHRIST AT EMMAUS: THE LARGER PLATE. 1654. B. 87</figDesc>
+</figure>
+
+<pb n="133" />
+<figure url="images/no_286.jpg" rend="w90">
+<index index="fig" />
+<head>286. ABRAHAM ENTERTAINING THE ANGELS. 1656. B. 29</head>
+<figDesc>286. ABRAHAM ENTERTAINING THE ANGELS. 1656. B. 29</figDesc>
+</figure>
+
+<pb n="135" />
+<figure url="images/no_287.jpg" rend="w90">
+<index index="fig" />
+<head>287, II. JACOB HAARING (THE <q>OLD HAARING</q>). (1655.) B. 274</head>
+<figDesc>287, II. JACOB HAARING (THE <q>OLD HAARING</q>). (1655.) B. 274</figDesc>
+</figure>
+
+<pb n="137" />
+<figure url="images/no_288.jpg" rend="w90">
+<index index="fig" />
+<head>288, I. THOMAS JACOBSZ HAARIXG (THE <q>YOUNG HAARING</q>). 1655. B. 275</head>
+<figDesc>288, I. THOMAS JACOBSZ HAARIXG (THE <q>YOUNG HAARING</q>). 1655. B. 275</figDesc>
+</figure>
+
+<pb n="139" />
+<figure url="images/no_289.jpg" rend="w90">
+<index index="fig" />
+<head>289, I. ARNOLD THOLINX. (1656.) B. 284. This first state, before the addition of further lines of shading on the breast, is only known in two impressions (British Museum, and Baron Edmond de Rothschild, Paris)</head>
+<figDesc>289, I. ARNOLD THOLINX. (1656.) B. 284. This first state, before the addition of further lines of shading on the breast, is only known in two impressions (British Museum, and Baron Edmond de Rothschild, Paris)</figDesc>
+</figure>
+
+<pb n="141" />
+<figure url="images/no_290.jpg" rend="w90">
+<index index="fig" />
+<head>290, I. JAN LUTMA, THE ELDER, GOLDSMITH AND SCULPTOR. 1656. B. 276. First state, before the addition of a window in the background</head>
+<figDesc>290, I. JAN LUTMA, THE ELDER, GOLDSMITH AND SCULPTOR. 1656. B. 276. First state, before the addition of a window in the background</figDesc>
+</figure>
+
+<pb n="143" />
+<figure url="images/no_303.jpg" rend="w80">
+<index index="fig" />
+<head>303, I. THE WOMAN WITH THE ARROW. 1661. B. 202</head>
+<figDesc>303, I. THE WOMAN WITH THE ARROW. 1661. B. 202</figDesc>
+</figure>
+
+<p>
+PRINTED AT THE BALLANTYNE PRESS LONDON
+</p>
+</div>
+
+</body>
+
+<back rend="page-break-before: right">
+<div rend="page-break-before: right">
+<divGen type="pgfooter" />
+</div>
+</back>
+
+</text>
+</TEI.2>
+
